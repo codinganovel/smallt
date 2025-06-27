@@ -16,15 +16,7 @@ visit : https://github.com/codinganovel/yanked
 
 ## 🚀 Usage
 
-To launch the interactive UI:
-```bash
-smallt
-```
-
-To quickly add a task without launching the full UI:
-```bash
-smallt add "Write the script for smallt"
-```
+[get yanked](https://github.com/codinganovel/yanked)
 
 ---
 
