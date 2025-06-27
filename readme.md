@@ -11,14 +11,8 @@ Your task list is managed interactively in the terminal. Tasks are stored in pla
 ---
 
 ## 📦 Installation
-visit : https://github.com/codinganovel/yanked
----
-
-## 🚀 Usage
 
 [get yanked](https://github.com/codinganovel/yanked)
-
----
 
 ## 🧰 Interactive Commands
 
